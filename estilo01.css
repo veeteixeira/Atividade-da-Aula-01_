@@ -1,0 +1,31 @@
+.header {
+    background-color: #FEC985;
+    height: 500px;
+    width: 500px;
+}
+
+.container {
+    background-color: #97FE85;
+    width: 50%;
+    height: 50%;
+}
+
+.paragrafo {
+    background-color: #F7280B;
+    color: #F8F9F9;
+    font: 25px monospace;
+    font-weight: bold
+}
+
+.sub {
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(150, 150, 235);
+}
+
+.sub2 {
+    width: 50vh;
+    height: 50%;
+    background-color: rgb(218, 47, 47);
+    font-family: fantasy;
+}
